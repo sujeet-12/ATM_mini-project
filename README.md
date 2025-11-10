@@ -172,17 +172,23 @@ Enter your choice: 1
 Your current balance is ₹1000.00
 
 ===== ATM Menu =====
+
 Enter your choice: 2
 Enter amount to deposit: ₹500
+
 ₹500.00 deposited successfully.
 
 ===== ATM Menu =====
+
 Enter your choice: 3
 Enter amount to withdraw: ₹300
+
 ₹300.00 withdrawn successfully.
 
 ===== ATM Menu =====
+
 Enter your choice: 4
+
 Thank you for using the ATM. Goodbye!
 
 
